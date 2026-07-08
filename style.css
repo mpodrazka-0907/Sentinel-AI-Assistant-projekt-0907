@@ -1,6 +1,6 @@
-/* Wprowadź poniższe zmiany do swojego pliku CSS */
+/* Wprowadź poniższe zmiany do swojego pliku CSS 
 
-/* BODY */
+/* BODY 
 body{
   background:
     radial-gradient(circle at top left,#34114d,transparent 30%),
@@ -12,37 +12,37 @@ body{
   /* overflow:hidden;  <- usunięte */
 }
 
-/* CHAT */
+/* CHAT 
 .chat-container{
   backdrop-filter:none;
   -webkit-backdrop-filter:none;
   background:#11111ee0;
 }
 
-/* BOT */
+/* BOT 
 .bot{
   backdrop-filter:none;
   -webkit-backdrop-filter:none;
   background:rgba(255,255,255,.06);
 }
 
-/* RISK */
+/* RISK 
 .risk-badge{
   backdrop-filter:none;
   -webkit-backdrop-filter:none;
 }
 
-/* GLOW */
+/* GLOW 
 .background-glow{
   filter:blur(80px);
 }
 
-/* INPUT */
+/* INPUT *
 input{
   font-size:16px;
 }
 
-/* MOBILE */
+/* MOBILE *
 @media(max-width:768px){
   .chat-container{
     width:100%;
